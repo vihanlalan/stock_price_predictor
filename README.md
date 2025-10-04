@@ -71,10 +71,9 @@ Create a feature branch (git checkout -b feature-new)
 Commit changes (git commit -m 'Added new feature')
 Push and create a PR
 
- Disclaimer
+Disclaimer
 This project is for educational and research purposes only.
 It is not financial advice and should not be used for actual trading decisions.
 
-📜 License
-
+License
 This project is licensed under the MIT License.
